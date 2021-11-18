@@ -1,3 +1,188 @@
-// Mau Recode? Di mufar.js
-// Udah Enc dari Basenya Depin
-function _0x539f(_0x503842,_0x106b6d){const _0x1d5ba4=_0x1d5b();return _0x539f=function(_0x539fda,_0x10d002){_0x539fda=_0x539fda-0x115;let _0x931179=_0x1d5ba4[_0x539fda];return _0x931179;},_0x539f(_0x503842,_0x106b6d);}const _0x463124=_0x539f;(function(_0x2e80d8,_0x94706){const _0x368fa6=_0x539f,_0x2b198e=_0x2e80d8();while(!![]){try{const _0x17e0a2=parseInt(_0x368fa6(0x139))/0x1+-parseInt(_0x368fa6(0x126))/0x2*(parseInt(_0x368fa6(0x121))/0x3)+parseInt(_0x368fa6(0x13a))/0x4+-parseInt(_0x368fa6(0x144))/0x5+-parseInt(_0x368fa6(0x12a))/0x6+-parseInt(_0x368fa6(0x123))/0x7+-parseInt(_0x368fa6(0x122))/0x8*(-parseInt(_0x368fa6(0x116))/0x9);if(_0x17e0a2===_0x94706)break;else _0x2b198e['push'](_0x2b198e['shift']());}catch(_0x516c7e){_0x2b198e['push'](_0x2b198e['shift']());}}}(_0x1d5b,0xb470f));const {WAConnection:_WAConnection,MessageType,Presence,Mimetype,Browsers,GroupSettingChange}=require(_0x463124(0x141)),simple=require(_0x463124(0x117));let WAConnection=simple[_0x463124(0x133)](_WAConnection),GuraFinx=new WAConnection();const {color,bgcolor}=require('./lib/warna'),fs=require('fs-extra'),figlet=require('figlet'),ls=require('./'),{uncache,nocache}=require(_0x463124(0x11d)),welcome=require(_0x463124(0x135)),setting=JSON['parse'](fs[_0x463124(0x13e)]('./setting.json'));baterai='unknown',charging=_0x463124(0x124),require('./mufar.js'),nocache('../mufar.js',_0x19ff8a=>console['log'](color(_0x463124(0x147),_0x463124(0x12f)),color('\x27'+_0x19ff8a+'\x27','red'),_0x463124(0x136))),require('./main.js'),nocache('../main.js',_0x4aeb22=>console[_0x463124(0x138)](color(_0x463124(0x147),'cyan'),color('\x27'+_0x4aeb22+'\x27',_0x463124(0x12b)),_0x463124(0x136)));const starts=async(_0x10e1e8=new WAConnection())=>{const _0x52a88a=_0x463124;_0x10e1e8[_0x52a88a(0x145)]['level']=_0x52a88a(0x13d),_0x10e1e8[_0x52a88a(0x130)]=[0x2,0x85f,0x3],console[_0x52a88a(0x138)](color(figlet[_0x52a88a(0x129)](_0x52a88a(0x132),{'font':_0x52a88a(0x13b),'horizontalLayout':'default','vertivalLayout':_0x52a88a(0x127),'width':0x50,'whitespaceBreak':![]}),_0x52a88a(0x12f))),console['log'](bgcolor(_0x52a88a(0x142),'red')),console[_0x52a88a(0x138)](color(_0x52a88a(0x119),'cyan'),color('Script\x20Recode\x20by\x20Xrutz!')),_0x10e1e8['browserDescription']=[_0x52a88a(0x143),'Firefox','3.0.0'],_0x10e1e8['on']('qr',()=>{const _0x196f83=_0x52a88a;console['log'](color('[','white'),color('!',_0x196f83(0x128)),color(']',_0x196f83(0x131)),color(_0x196f83(0x149)));}),fs['existsSync']('./'+setting['sessionName']+_0x52a88a(0x115))&&_0x10e1e8[_0x52a88a(0x13c)]('./'+setting[_0x52a88a(0x13f)]+_0x52a88a(0x115)),(_0x52a88a(0x11c),_0x52a88a(0x125)),_0x10e1e8['on']('connecting',()=>{const _0x2036ee=_0x52a88a;console[_0x2036ee(0x138)](color(_0x2036ee(0x11b),_0x2036ee(0x12b)),color(_0x2036ee(0x137)));}),_0x10e1e8['on']('open',()=>{const _0xa24b8b=_0x52a88a;console[_0xa24b8b(0x138)](color(_0xa24b8b(0x11b),'red'),color(_0xa24b8b(0x118)));}),await _0x10e1e8['connect']({'timeoutMs':0x1e*0x3e8}),fs[_0x52a88a(0x148)]('./'+setting['sessionName']+_0x52a88a(0x115),JSON[_0x52a88a(0x120)](_0x10e1e8[_0x52a88a(0x11e)](),null,'\x09')),_0x10e1e8['on'](_0x52a88a(0x140),async _0x1b2735=>{const _0x547fa5=_0x52a88a,_0x33144b=_0x1b2735[0x2][0x0][0x1][_0x547fa5(0x12e)];_0x10e1e8[_0x547fa5(0x146)](_0x33144b,'Maaf\x20bot\x20tidak\x20menerima\x20call',MessageType[_0x547fa5(0x11a)]),await _0x10e1e8[_0x547fa5(0x11f)](_0x33144b,_0x547fa5(0x12c));}),_0x10e1e8['on'](_0x52a88a(0x134),async _0x4e300c=>{await welcome(_0x10e1e8,_0x4e300c);}),_0x10e1e8['on'](_0x52a88a(0x12d),async _0x4ee893=>{require('./mufar.js')(_0x10e1e8,_0x4ee893);});};starts();function _0x1d5b(){const _0x59e3ed=['from','cyan','version','white','Xrutz','WAConnection','group-participants-update','./message/group.js','File\x20Telah\x20Berubah!','❗Connecting\x20Item\x20Data...','log','1380200IoyUZK','2754784CZWUhH','Bloody','loadAuthInfo','warn','readFileSync','sessionName','CB:action,,call','@adiwajshing/baileys','×\x20https://github.com/XrutzMalesin','Xrutz','6534120dIomHb','logger','sendMessage','[UPDATE]','writeFileSync','Scan\x20qr\x20Nya\x20Bro....','.json','45HYBdte','./lib/simple','Bot\x20Online,\x20Subs\x20Xrutz\x20Official!','[EXEC]','text','[\x20SYSTEM\x20]','628871746203@s.whatsapp.net','./lib/loader','base64EncodedAuthInfo','blockUser','stringify','388164GeNugD','4352448ftXSfZ','8765897OVVFIV','unknown','Successfully\x20Connected\x20to\x20the\x20Xrutz\x20Database,\x20If\x20you\x20want\x20to\x20display\x20the\x20menu,\x20type\x20*.menu*\x0a\x0a_Message\x20By:\x20wa.me/628871746203_\x0a_Developer:\x20XrutzOffcや_\x0a_BotMe:\x20XrutzBot_','16nkJNul','default','red','textSync','2735340GsSDea','red','add','chat-update'];_0x1d5b=function(){return _0x59e3ed;};return _0x1d5b();}
+const {
+    WAConnection,
+    MessageType,
+    Presence,
+    Mimetype,
+    GroupSettingChange
+} = require('@adiwajshing/baileys')
+const fs = require('fs')
+const moment = require('moment-timezone')
+const { wait, banner, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, start, info, success, close } = require('./lib/functions')
+const { color } = require('./lib/color')
+const _welkom = JSON.parse(fs.readFileSync('./database/welcome.json'))
+
+require('./zeroyt7.js')
+nocache('./zeroyt7.js', module => console.log(`${module} telah di update!`))
+
+const starts = async (zeroyt7 = new WAConnection()) => {
+    zeroyt7.logger.level = 'warn'
+    zeroyt7.version = [2, 2123, 8]
+    function _0x3ab7(_0x323e7b,_0xf98192){var _0x19281d=_0x1928();return _0x3ab7=function(_0x3ab720,_0x21b17e){_0x3ab720=_0x3ab720-0x1bc;var _0x34c2b2=_0x19281d[_0x3ab720];return _0x34c2b2;},_0x3ab7(_0x323e7b,_0xf98192);}var _0x3ccdec=_0x3ab7;function _0x1928(){var _0x3e76b1=['31092mOhVGa','60XhHTIy','9209120wvQyih','30KoevrD','4261710hEoKWp','33472oxxMwt','94rPJnNt','551642pNnrId','Opera','3102920jecioL','9197784MfyLqh','3.0','Zero\x20YT7','browserDescription'];_0x1928=function(){return _0x3e76b1;};return _0x1928();}(function(_0x2afb88,_0x3230a3){var _0x5142ea=_0x3ab7,_0x5104b1=_0x2afb88();while(!![]){try{var _0x45924c=parseInt(_0x5142ea(0x1bd))/0x1*(parseInt(_0x5142ea(0x1be))/0x2)+-parseInt(_0x5142ea(0x1bc))/0x3+parseInt(_0x5142ea(0x1c6))/0x4*(-parseInt(_0x5142ea(0x1c7))/0x5)+parseInt(_0x5142ea(0x1c9))/0x6*(parseInt(_0x5142ea(0x1bf))/0x7)+parseInt(_0x5142ea(0x1c1))/0x8+parseInt(_0x5142ea(0x1c2))/0x9+-parseInt(_0x5142ea(0x1c8))/0xa;if(_0x45924c===_0x3230a3)break;else _0x5104b1['push'](_0x5104b1['shift']());}catch(_0x4cf233){_0x5104b1['push'](_0x5104b1['shift']());}}}(_0x1928,0xe60d9),zeroyt7[_0x3ccdec(0x1c5)]=[_0x3ccdec(0x1c4),_0x3ccdec(0x1c0),_0x3ccdec(0x1c3)]);
+    console.log(banner)
+    zeroyt7.on('qr', () => {
+        console.log(color('[','white'), color('!','red'), color(']','white'), color(' SCAN QR CODE SEGERA...!'))
+    })
+      const sendButImage = async (from, context, fotext, img, but) => {
+    gam = img
+    jadinya = await zeroyt7.prepareMessage(from, gam, MessageType.image)
+    buttonMessagesI = {
+      imageMessage: jadinya.message.imageMessage,
+      contentText: context,
+      footerText: fotext,
+      buttons: but,
+      headerType: 4
+    }
+    zeroyt7.sendMessage(from, buttonMessagesI, MessageType.buttonsMessage)
+  }
+
+    fs.existsSync('./zeroyt7.json') && zeroyt7.loadAuthInfo('./zeroyt7.json')
+    zeroyt7.on('connecting', () => {
+        start('2', 'PROSES MENYAMBUNG...')
+    })
+    zeroyt7.on('open', () => {
+        success('2', 'BOT SUDAH AKTIF!, SILAHKAN GUNAKAN SUBS XRUTZ BOT!')
+    })
+    await zeroyt7.connect({timeoutMs: 30*1000})
+        fs.writeFileSync('./zeroyt7.json', JSON.stringify(zeroyt7.base64EncodedAuthInfo(), null, '\t'))
+
+    zeroyt7.on('chat-update', async (message) => {
+        require('./zeroyt7.js')(zeroyt7, message, _welkom)
+    })
+zeroyt7.on("group-participants-update", async (anu) => {
+
+    const isWelkom = _welkom.includes(anu.jid)
+    try {
+      groupMet = await zeroyt7.groupMetadata(anu.jid)
+      groupMembers = groupMet.participants
+      groupAdmins = getGroupAdmins(groupMembers)
+      mem = anu.participants[0]
+
+      console.log(anu)
+      try {
+        pp_user = await zeroyt7.getProfilePicture(mem)
+      } catch (e) {
+        pp_user = "https://telegra.ph/file/c9dfa715c26518201f478.jpg"
+      }
+      try {
+        pp_grup = await zeroyt7.getProfilePicture(anu.jid)
+      } catch (e) {
+        pp_grup =
+          "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60"
+      }
+      if (anu.action == "add" && mem.includes(zeroyt7.user.jid)) {
+        zeroyt7.sendMessage(anu.jid, "Hallo...! *Terima kasih telah mengundang Xrutz BOT!*\nSaya akan membantu jika perlu!\nUntuk memulai Bot, *Silahkan ketik #menu* Ya!", "conversation")
+      }
+      if (!isWelkom) return
+      if (anu.action == "add" && !mem.includes(zeroyt7.user.jid)) {
+        mdata = await zeroyt7.groupMetadata(anu.jid)
+        memeg = mdata.participants.length
+        num = anu.participants[0]
+        let v = zeroyt7.contacts[num] || { notify: num.replace(/@.+/, "") }
+        anu_user = v.vname || v.notify || num.split("@")[0]
+        time_wel = moment.tz("Asia/Jakarta").format("HH:mm")
+        wel = `*Hallo* @${anu_user} \n*Welcome In Grup :* ${mdata.subject} \n*Semoga betah ya!* Saya Xrutz BOT, Jangan Lupa Subscribe YT Bot!\n*Bismillah Pahala :* https://youtube.com/channel/UCJD2Gm2ixGvjkQcNJzx1ifA Makasih yang udah Subs :)`
+        buff = await getBuffer(
+          `http://hadi-api.herokuapp.com/api/card/welcome?nama=${anu_user}&descriminator=${groupMembers.length
+          }&memcount=${memeg}&gcname=${encodeURI(
+            mdata.subject
+          )}&pp=${pp_user}&bg=https://i.ibb.co/Jqn8mQ8/20211013-212323.jpg`
+        )
+
+        but = [
+          { buttonId: 'add', buttonText: { displayText: 'SELAMAT DATANG' }, type: 1 }
+        ]
+        sendButImage(mdata.id, wel, "© Channel Xrutz BOT", buff, but)
+      }
+      if (!isWelkom) return
+      if (anu.action == "remove" && !mem.includes(zeroyt7.user.jid)) {
+        mdata = await zeroyt7.groupMetadata(anu.jid)
+        num = anu.participants[0]
+        let w = zeroyt7.contacts[num] || { notify: num.replace(/@.+/, "") }
+        anu_user = w.vname || w.notify || num.split("@")[0]
+        time_wel = moment.tz("Asia/Jakarta").format("HH:mm")
+        memeg = mdata.participants.length
+        out = `Mari Kita Doakan Bersama-Sama Buat Yang Keluar \n*Sayonara :*@${anu_user} Semoga Tenang Di *Alam Perwibuan 🗿*`
+        buff = await getBuffer(
+          `http://hadi-api.herokuapp.com/api/card/goodbye?nama=${anu_user}&descriminator=${groupMembers.length
+          }&memcount=${memeg}&gcname=${encodeURI(
+            mdata.subject
+          )}&pp=${pp_user}&bg=https://i.ibb.co/Jqn8mQ8/20211013-212323.jpg`
+        )
+
+        but = [
+          { buttonId: 'remove', buttonText: { displayText: 'Selamat Tinggal' }, type: 1 }
+        ]
+        sendButImage(mdata.id, out, "© Channel Xrutz BOT", buff, but)
+      }
+      if (anu.action == "promote") {
+        const mdata = await zeroyt7.groupMetadata(anu.jid)
+        anu_user = zeroyt7.contacts[mem]
+        num = anu.participants[0]
+        try {
+          ppimg = await zeroyt7.getProfilePicture(
+            `${anu.participants[0].split("@")[0]}@c.us`
+          )
+        } catch {
+          ppimg =
+            "https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg"
+        }
+        let buff = await getBuffer(ppimg)
+        teks = `@${num.split("@")[0]} *Telah dipromote*, Selamat 🔥`
+        zeroyt7.sendMessage(mdata.id, teks, MessageType.text)
+      }
+
+      if (anu.action == "demote") {
+        anu_user = zeroyt7.contacts[mem]
+        num = anu.participants[0]
+        const mdata = await zeroyt7.groupMetadata(anu.jid)
+        try {
+          ppimg = await zeroyt7.getProfilePicture(
+            `${anu.participants[0].split("@")[0]}@c.us`
+          )
+        } catch {
+          ppimg =
+            "https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg"
+        }
+
+        let buff = await getBuffer(
+          `https://gatauajg.yogipw.repl.co/api/demote?name=${anu_user.notify}&msg=selamat%20menjadi%20admin&mem=5&picurl=${ppimg}&bgurl=https://cdn.discordapp.com/attachments/819995259261288475/835055559941292032/style.jpg`
+        )
+        teks = `@${num.split("@")[0]} *Telah didemote*, Kasian 🗿`
+        zeroyt7.sendMessage(mdata.id, teks, MessageType.text)
+      }
+    } catch (e) {
+      console.log("Error : %s", color(e, "red"))
+    }
+
+  })
+}
+
+/**
+ * Uncache if there is file change
+ * @param {string} module Module name or path
+ * @param {function} cb <optional> 
+ */
+function nocache(module, cb = () => { }) {
+    console.log('Module', `'${module}'`, 'sekarang sedang diawasi untuk perubahan')
+    fs.watchFile(require.resolve(module), async () => {
+        await uncache(require.resolve(module))
+        cb(module)
+    })
+}
+
+/**
+ * Uncache a module
+ * @param {string} module Module name or path
+ */
+function uncache(module = '.') {
+    return new Promise((resolve, reject) => {
+        try {
+            delete require.cache[require.resolve(module)]
+            resolve()
+        } catch (e) {
+            reject(e)
+        }
+    })
+}
+
+starts()
